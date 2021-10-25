@@ -32,4 +32,13 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 - Включаем
 
 ВСЁ.
+## Синтаксис
+### English, Русский
+Max line length is 20 chars.
+Максимальная длинна строки - 20 символов
+### English VR
+Max line length is 9 chars, and there should be double-space between the line,like
+Sample te  Sample te
+
+## Скачать
 
