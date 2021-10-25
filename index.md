@@ -45,7 +45,7 @@ Max line length is 20 chars.
 ### English VR
 Max line length is 9 chars, and there should be double-space between the line,like
 
-Sample te||Sample te
+```Sample te||Sample te```
 
 where ```|``` symbol is space
 ## Конфигурация
