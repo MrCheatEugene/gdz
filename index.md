@@ -46,10 +46,15 @@ Max line length is 20 chars.
 Максимальная длинна строки - 20 символов
 ### English VR
 Max line length is 9 chars, and there should be double-space between the line,like
-Sample te  Sample te
+
+Sample te||Sample te
+
+where ```|``` symbol is space
 ## Конфигурация
 Если вы используете другие компоненты, или хотите сменить язык - отредактируйте конфиг.
 Он находится чуть ниже заметок.
 ## Скачать
 
-[Скачать новейшую версию](https://github.com/MrCheatEugene/gdz/releases/latest)
+[Скачать новейшую версию](https://github.com/MrCheatEugene/gdz/releases/latest/download/gdz.ino)
+
+[Скачать первую версию](https://github.com/MrCheatEugene/gdz/releases/1.0/download/gdz.ino)
