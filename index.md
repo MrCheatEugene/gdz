@@ -55,4 +55,4 @@ where ```|``` symbol is space
 
 [Скачать новейшую версию](https://github.com/MrCheatEugene/gdz/releases/latest/download/gdz.ino)
 
-[Скачать первую версию](https://github.com/MrCheatEugene/gdz/releases/1.0/download/gdz.ino)
+[Скачать первую версию](https://github.com/MrCheatEugene/gdz/releases/download/1.0/gdz.ino)
