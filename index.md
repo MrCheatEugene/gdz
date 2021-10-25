@@ -42,3 +42,4 @@ Sample te  Sample te
 
 ## Скачать
 
+[Скачать новейшую версию](https://github.com/MrCheatEugene/gdz/releases/latest)
