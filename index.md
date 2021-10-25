@@ -34,7 +34,7 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 - Подключаем RepRap Discount Smart Controller через "смарт-адаптер" к RepRap шилду
 - Подключаем шилд к Ардуино Мега
-- Загружаем прошивку
+- Загружаем прошивку(загружается на 1.8.9 и выше)
 - Загружаем файл gdz.txt согласно СИНТАКСИСУ(О НЁМ ПОЗЖЕ) на карту
 - Вставляем карту
 - Включаем
@@ -47,7 +47,9 @@ Max line length is 20 chars.
 ### English VR
 Max line length is 9 chars, and there should be double-space between the line,like
 Sample te  Sample te
-
+## Конфигурация
+Если вы используете другие компоненты, или хотите сменить язык - отредактируйте конфиг.
+Он находится чуть ниже заметок.
 ## Скачать
 
 [Скачать новейшую версию](https://github.com/MrCheatEugene/gdz/releases/latest)
