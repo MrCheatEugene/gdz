@@ -38,6 +38,7 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 - Включаем
 
 ВСЁ.
+Или качаем автоматический установщик! Ссылка ниже.
 ## Синтаксис
 ### English, Русский
 Max line length is 20 chars.
@@ -52,6 +53,7 @@ where ```|``` symbol is space
 Если вы используете другие компоненты, или хотите сменить язык - отредактируйте конфиг.
 Он находится чуть ниже заметок.
 ## Скачать
+[Скачать автоматический установщик](https://github.com/MrCheatEugene/gdz/releases/download/1.0-fwuploader/fwu.zip)
 
 [Скачать новейшую версию](https://github.com/MrCheatEugene/gdz/releases/latest/download/gdz.ino)
 
